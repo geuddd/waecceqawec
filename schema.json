@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "properties": {
+    "dcgAppConfig": {
+      "title": "Desmos App Config",
+      "description": "The Desmos App Config",
+      "type": "string"
+    }
+  }
+}
